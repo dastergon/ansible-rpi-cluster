@@ -44,4 +44,4 @@ To shutdown all your RPis execute the following playbook:
 
 To shutdown all your RPis execute the following playbook:
 
-    ansible-playbook playbooks/shutdown.yml -i hosts
+    ansible-playbook playbooks/reboot.yml -i hosts
